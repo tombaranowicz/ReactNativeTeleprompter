@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelePrompter.iml" filepath="$PROJECT_DIR$/.idea/modules/TelePrompter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TelePrompter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TelePrompter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1923075129/TelePrompter.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1923075129/TelePrompter.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1636359605/TelePrompter.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1636359605/TelePrompter.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1454536659/TelePrompter.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/1454536659/TelePrompter.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1853638462/TelePrompter.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1853638462/TelePrompter.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/341636122/TelePrompter.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/341636122/TelePrompter.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1716234411/TelePrompter.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1716234411/TelePrompter.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-971582845/TelePrompter.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-971582845/TelePrompter.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
